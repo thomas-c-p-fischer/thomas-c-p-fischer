@@ -2,7 +2,7 @@
 
 ## Je suis développeur.
 - 🌸 J'aime les nouvelles technologies, les mutlimédias  ✨
-- 🌸 J'ai été militaire, et je suis actuellement en formation de développeur web/web mobile 🤯
+- 🌸 J'ai été militaire, reconverti en développeur web/web mobile, je suis actuellement en recherhce d'une alternance pour ma formation de CDA 🤯
 
 ### Connect with me:
 
